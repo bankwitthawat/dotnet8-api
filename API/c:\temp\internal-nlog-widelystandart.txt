@@ -1,0 +1,197 @@
+2024-04-09 14:03:52.1673 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-09 14:03:52.1843 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-09 14:03:52.1864 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:03:52.1911 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:03:52.1919 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-09 14:03:52.1944 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-09 14:03:52.1944 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-09 14:03:52.1967 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-09 14:03:52.2512 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/NLog.config
+2024-04-09 14:03:52.2560 Info Configuration initialized.
+2024-04-09 14:05:28.8049 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-09 14:05:28.8191 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-09 14:05:28.8210 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:05:28.8255 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:05:28.8262 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-09 14:05:28.8286 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-09 14:05:28.8286 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-09 14:05:28.8306 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-09 14:05:28.8819 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/NLog.config
+2024-04-09 14:05:28.8867 Info Configuration initialized.
+2024-04-09 14:06:04.0855 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-09 14:06:04.0989 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-09 14:06:04.1006 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:06:04.1048 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:06:04.1061 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-09 14:06:04.1080 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-09 14:06:04.1080 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-09 14:06:04.1101 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-09 14:06:04.1631 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/NLog.config
+2024-04-09 14:06:04.1678 Info Configuration initialized.
+2024-04-09 14:08:27.6814 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-09 14:08:27.6952 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-09 14:08:27.6969 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:08:27.7010 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:08:27.7022 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-09 14:08:27.7040 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-09 14:08:27.7040 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-09 14:08:27.7059 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-09 14:08:27.7579 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/NLog.config
+2024-04-09 14:08:27.7626 Info Configuration initialized.
+2024-04-09 14:12:17.7630 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-09 14:12:17.7897 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-09 14:12:17.7920 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:12:17.8033 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:12:17.8042 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-09 14:12:17.8068 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-09 14:12:17.8068 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-09 14:12:17.8131 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-09 14:12:17.8728 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-09 14:12:17.8782 Info Configuration initialized.
+2024-04-09 14:12:18.1872 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-09 14:13:44.1433 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-09 14:13:44.1680 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-09 14:13:44.1699 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:13:44.1804 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:13:44.1818 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-09 14:13:44.1837 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-09 14:13:44.1837 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-09 14:13:44.1898 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-09 14:13:44.2593 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-09 14:13:44.2652 Info Configuration initialized.
+2024-04-09 14:13:44.5566 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-09 14:15:00.3949 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-09 14:15:00.4225 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-09 14:15:00.4250 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:15:00.4373 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:15:00.4389 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-09 14:15:00.4411 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-09 14:15:00.4411 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-09 14:15:00.4486 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-09 14:15:00.5133 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-09 14:15:00.5186 Info Configuration initialized.
+2024-04-09 14:15:00.9040 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-09 14:15:21.6999 Info NLogRequestPostedBodyMiddleware is not yet initialized, which is required by aspnet-request-posted-body.
+2024-04-09 14:18:02.8031 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-09 14:18:02.8258 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-09 14:18:02.8279 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:18:02.8391 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:18:02.8400 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-09 14:18:02.8428 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-09 14:18:02.8430 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-09 14:18:02.8628 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-09 14:18:02.9302 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-09 14:18:02.9374 Info Configuration initialized.
+2024-04-09 14:18:03.2310 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-09 14:18:10.4336 Info NLogRequestPostedBodyMiddleware is not yet initialized, which is required by aspnet-request-posted-body.
+2024-04-09 14:28:25.4986 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-09 14:28:25.5217 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-09 14:28:25.5238 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:28:25.5352 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:28:25.5361 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-09 14:28:25.5386 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-09 14:28:25.5386 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-09 14:28:25.5454 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-09 14:28:25.6039 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-09 14:28:25.6092 Info Configuration initialized.
+2024-04-09 14:28:25.8841 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-09 14:28:32.6000 Info NLogRequestPostedBodyMiddleware is not yet initialized, which is required by aspnet-request-posted-body.
+2024-04-09 14:38:35.2620 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-09 14:38:35.2845 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-09 14:38:35.2865 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:38:35.2963 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-09 14:38:35.2971 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-09 14:38:35.2996 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-09 14:38:35.2996 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-09 14:38:35.3059 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-09 14:38:35.3659 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-09 14:38:35.3711 Info Configuration initialized.
+2024-04-09 14:38:35.6376 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-09 14:38:47.6805 Info NLogRequestPostedBodyMiddleware is not yet initialized, which is required by aspnet-request-posted-body.
+2024-04-10 16:03:37.7340 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-10 16:03:37.7697 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-10 16:03:37.7719 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-10 16:03:37.7828 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-10 16:03:37.7841 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-10 16:03:37.7861 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-10 16:03:37.7861 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-10 16:03:37.7932 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 16:03:37.8602 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-10 16:03:37.8667 Info Configuration initialized.
+2024-04-10 16:03:38.2328 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-10 16:09:32.9781 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-10 16:09:33.0136 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-10 16:09:33.0157 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-10 16:09:33.0263 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-10 16:09:33.0277 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-10 16:09:33.0298 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-10 16:09:33.0298 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-10 16:09:33.0421 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-10 16:09:33.0990 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-10 16:09:33.1042 Info Configuration initialized.
+2024-04-10 16:09:33.3643 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-10 16:10:28.0832 Info NLogRequestPostedBodyMiddleware is not yet initialized, which is required by aspnet-request-posted-body.
+2024-04-11 13:44:29.7038 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-04-11 13:44:29.7388 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2024-04-11 13:44:29.7414 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-11 13:44:29.7533 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Failed to create Target with unknown type-alias: 'Database' - Extension NLog.Database not included?
+   at NLog.Config.FactoryExtensions.CreateInstance[TBaseType](IFactory`1 factory, String typeAlias)
+   at NLog.Config.LoggingConfigurationParser.FactoryCreateInstance[T](String typeName, IFactory`1 factory)
+2024-04-11 13:44:29.7548 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2024-04-11 13:44:29.7571 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_auth' not found for logging rule: API.Controllers.AuthController.
+2024-04-11 13:44:29.7571 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'log_exception' not found for logging rule: *.
+2024-04-11 13:44:29.7638 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-04-11 13:44:29.8310 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-11 13:44:29.8421 Info Configuration initialized.
+2024-04-11 13:44:30.2838 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=72, FilePath=/Users/witthawatleethong/Desktop/Widely/standart-project/webapi/API/bin/Debug/net8.0/nlog.config
+2024-04-11 13:52:39.6048 Info NLogRequestPostedBodyMiddleware is not yet initialized, which is required by aspnet-request-posted-body.
